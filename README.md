@@ -120,7 +120,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 05/07(Wed) - Herbrand's Theorem and Ground Resolution (Ch10). 
 * 05/12(Mon) - Applications of Herbrand's Theorem (Ch11). 
 * 05/14(Wed) - Resolution for First-Order Logic (Ch12). 
-* 05/19(Mon) - Resolution for First-Order Logic (Ch12). 
+* 05/19(Mon) - Compactness for First-Order Logic (Ch13).
 * 05/21(Wed) - Decidable Theories (Ch14).  
 * 05/26(Mon) - Decidable Theories (Ch14). 
 * 05/28(Wed) - Decidable Theories (Ch14). 
