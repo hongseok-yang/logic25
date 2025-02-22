@@ -9,7 +9,7 @@ CS402 is a course on logic with emphasis on its use for computer science. Its go
 
 #### [February 22] Policy for handling late submissions.
 
-We will adopt the following scheme for handling late submissions for homework assignments, programming project, and the report of the programming project. The scheme assumes that the total marks are 100.
+We will adopt the following scheme for handling late submissions for homework assignments, reports and slides of group projects, etc. The scheme assumes that the total marks are 100.
 
 1. <= One day late (by the midnight of the next day): -10
 2. <= Two days late: -20
@@ -46,7 +46,7 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 
 ## 3. Final Exam
 
-The final exam for this course will happen in our usual classroom on the 9th of June (Monday) during the final-exam period.
+The final exam for this course will take place in our usual classroom on the 9th of June (Monday) during the final-exam period.
 
 * Date: 9 June 2025 (Monday).
 * Time: 14:30 - 16:00.
@@ -56,17 +56,17 @@ The final exam for this course will happen in our usual classroom on the 9th of 
 
 ## 4. Group Project
 
-One important part of this course is to form a group of 2-4 students, study an advanced research topic on computational logic with fellow students in the group, and present what the group studied if the group is selected for presentation. Here are the detailed instructions on this group project.
+One important part of the course is a group project, which consists of forming a group of 2-4 students, studying an advanced research topic on computational logic with fellow students in the group, and present what the group studied if the group is selected for presentation. Here are the detailed instructions on the group project.
 
 #### (1) Form a group.
   * Deadline - 11:59PM on 19 March 2025 (Wednesday).
-  * Form a group with 2-4 students, and inform TAs and the lecture about the group.
+  * Form a group with 2-4 students, and inform TAs and the lecturer about the group.
 
 #### (2) Select a topic and write a proposal (5 marks out of 40 marks).
   * Deadline - 11:59PM on 9 April 2025 (Wednesday).
   * Pick a paper or papers on computational logic that will be studied by your group.
-    The paper or papers should be chosen among papers published in SAT'19, SAT'20, SAT'21,
-    SAT'22, SAT'23, and SAT'24.
+    The paper or papers should be chosen among papers published in 
+the international conference on theory and applications of satisfiability testing (SAT) from 2019 until 2024, that is, SAT'19, SAT'20, SAT'21, SAT'22, SAT'23, and SAT'24. The webpages of these conferences can be found at https://satisfiability.org/[https://satisfiability.org/].
   * Submit a 1-page proposal in KLMS that contains the title(s) of the selected paper(s), the reasoning for choosing it or them, and the plan to study the paper in depth.
   * The proposal can be submitted by only one member of each team.
 
