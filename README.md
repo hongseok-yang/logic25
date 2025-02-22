@@ -66,7 +66,7 @@ One important part of the course is a group project, which consists of forming a
   * Deadline - 11:59PM on 9 April 2025 (Wednesday).
   * Pick a paper or papers on computational logic that will be studied by your group.
     The paper or papers should be chosen among papers published in 
-the international conference on theory and applications of satisfiability testing (SAT) from 2019 until 2024, that is, SAT'19, SAT'20, SAT'21, SAT'22, SAT'23, and SAT'24. The webpages of these conferences can be found at https://satisfiability.org/[https://satisfiability.org/].
+the international conference on theory and applications of satisfiability testing (SAT) from 2019 until 2024, that is, SAT'19, SAT'20, SAT'21, SAT'22, SAT'23, and SAT'24. The links to the webpages of these conferences can be found at https://satisfiability.org/.
   * Submit a 1-page proposal in KLMS that contains the title(s) of the selected paper(s), the reasoning for choosing it or them, and the plan to study the paper in depth.
   * The proposal can be submitted by only one member of each team.
 
