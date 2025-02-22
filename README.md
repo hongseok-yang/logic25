@@ -58,11 +58,11 @@ The final exam for this course will happen in our usual classroom on the 9th of 
 
 One important part of this course is to form a group of 2-4 students, study an advanced research topic on computational logic with fellow students in the group, and present what the group studied if the group is selected for presentation. Here are the detailed instructions on this group project.
 
-#### 1. Form a group.
+#### (1) Form a group.
   * Deadline - 11:59PM on 19 March 2025 (Wednesday).
   * Form a group with 2-4 students, and inform TAs and the lecture about the group.
 
-#### 2. Select a topic and write a proposal (5 marks out of 40 marks).
+#### (2) Select a topic and write a proposal (5 marks out of 40 marks).
   * Deadline - 11:59PM on 9 April 2025 (Wednesday).
   * Pick a paper or papers on computational logic that will be studied by your group.
     The paper or papers should be chosen among papers published in SAT'19, SAT'20, SAT'21,
@@ -70,24 +70,24 @@ One important part of this course is to form a group of 2-4 students, study an a
   * Submit a 1-page proposal in KLMS that contains the title(s) of the selected paper(s), the reasoning for choosing it or them, and the plan to study the paper in depth.
   * The proposal can be submitted by only one member of each team.
 
-#### 3. Write a report (15 marks out of 40 marks).
+#### (3) Write a report (15 marks out of 40 marks).
   * Deadline - 11:59PM on 21 May 2025 (Wednesday).
   * Submit a report with at most 4 pages excluding bibliography and figures in KLMS.
   * The report can be submitted by only one member of each team.
   * The report should explain not just the topic studied by your group but also how the group studied the topic. The latter can be about how the group members studied the topic together, which questions they asked in order to understand the topic in depth, which other papers they studied, which existing implementations they looked at if there are any such, and how each member of the group contributed to the study, etc.
   * We encourage the students to go beyond a simple summary of the topic, and to have their own thoughts on the topic in the form of mathematical or experimental analyses. 
 
-#### 4. Submit the slides of a presentation on the studied topic (15 marks out of 40 marks).
+#### (4) Submit the slides of a presentation on the studied topic (15 marks out of 40 marks).
   * Deadline - 11:59PM on 28 May 2025 (Wednesday).
   * Prepare the slides for a 20-minute talk on the studied topic, and submit them in KLMS.
   * The slides can be submitted by only one member of each team.
   * The slides should be in the pdf format.
 
-#### 5. Present your study if your group project is chosen (5 marks out of 40 marks).
+#### (5) Present your study if your group project is chosen (5 marks out of 40 marks).
   * Six project groups will be selected based on the votes by the students, TAs, and the lecturer.
   * Three chosen groups will present their projects on 2 June 2025 (Monday), and the other three will present their projects on 4 June 2025 (Wednesday).
 
-#### 6. Warning on plagiarism.
+#### (6) Warning on plagiarism.
   * Students should not copy texts from other sources in their reports. If students have to use such texts, they have to rephrase the texts in their own words and state the source of the texts explicitly. Ideally, students' write-ups should mostly consist of the students' own phrases and expressions, and use such borrowed and rephrased sentences only when doing so is absolutely needed. Copying texts from other sources is an instance of plagiarism, and if it happens to an academic, it can destroy his or her research career. If any of the reports of a group is found to plagiarise, everyone in the group will get F.
 
 ## 5. Homework
