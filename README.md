@@ -31,8 +31,8 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 #### 2.2. Teaching Staffs
 
 * Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (Email: hongseok00@gmail.com. Office hour: 6:00pm - 7:00pm on Monday in the room 3403 in the E3 building.)
-* TA: Taeyoung Kim (Email: taeyoungkim21@kaist.ac.kr. Office hour: To be announced.)
-* TA: Seonghun Park (Email: hun57@kaist.ac.kr. Office hour: To be announced.)
+* TA: Taeyoung Kim (Email: taeyoungkim21@kaist.ac.kr. Office hour: 4:00pm - 5:00pm on Wednesday in the room 3419 in the E3 building. This is our lab, so please knock before you come in.)
+* TA: Seonghun Park (Email: hun57@kaist.ac.kr. Office hour: 1:30pm - 2:30pm on Tuesday in the room 3419 in the E3 building. This is our lab, so please knock before you come in.)
 
 #### 2.3. Place and Time
 
