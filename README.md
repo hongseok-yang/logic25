@@ -7,6 +7,13 @@ CS402 is a course on logic with emphasis on its use for computer science. Its go
 
 ## 1. Important Announcements
 
+#### [April 26] [Homework2](https://github.com/hongseok-yang/logic25/blob/master/Homework/sheet2-questions.pdf) is out.
+
+The homework assignment 2 is out. Submit your solutions in KLMS by 6:00pm on 9 May 2025 (Friday).
+
+We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
+
+
 #### [March 23] [Homework1](https://github.com/hongseok-yang/logic25/blob/master/Homework/sheet1-questions.pdf) is out.
 
 The homework assignment 1 is out. Submit your solutions in KLMS by 6:00pm on 4 April  2025 (Friday).
@@ -101,6 +108,7 @@ the international conference on theory and applications of satisfiability testin
 Submit your solutions in KLMS. We will create submission folders for all the homework assignments in KLMS.
 
 * [Homework1](https://github.com/hongseok-yang/logic25/blob/master/Homework/sheet1-questions.pdf) - Deadline: 6:00pm on 4 April 2025 (Friday).
+* [Homework2](https://github.com/hongseok-yang/logic25/blob/master/Homework/sheet2-questions.pdf) - Deadline: 6:00pm on 9 May 2025 (Friday).
 
 ## 6. Tentative Plan
 
