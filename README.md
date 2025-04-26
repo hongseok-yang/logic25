@@ -13,6 +13,15 @@ The homework assignment 2 is out. Submit your solutions in KLMS by 6:00pm on 9 M
 
 We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
 
+#### [April 11] Final exam date is changed.
+
+As we surveyed through KLMS Q&A board, we will be changing the final exam data to Wednesday, following the convention.
+
+#### [April 11] Late submission policy is changed.
+
+We changed the late submission policy for the slides of group projects.
+To have some time to evaluate your submission, we won't allow late submission for the slides.
+The policy for other submissions (homework assignments, reports) will not be changed.
 
 #### [March 23] [Homework1](https://github.com/hongseok-yang/logic25/blob/master/Homework/sheet1-questions.pdf) is out.
 
@@ -22,7 +31,8 @@ We remind the students that we adopt a very strict policy for handling dishonest
 
 #### [February 22] Policy for handling late submissions.
 
-We will adopt the following scheme for handling late submissions for homework assignments, reports and slides of group projects, etc. The scheme assumes that the total marks are 100.
+We will adopt the following scheme for handling late submissions for homework assignments and reports of group projects, etc. The scheme assumes that the total marks are 100.
+The slides of group projects do not accept late submission. 
 
 1. <= One day late (by the midnight of the next day): -10
 2. <= Two days late: -20
@@ -59,9 +69,9 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 
 ## 3. Final Exam
 
-The final exam for this course will take place in our usual classroom on the 9th of June (Monday) during the final-exam period.
+The final exam for this course will take place in our usual classroom on the 11st of June (Wednesday) during the final-exam period.
 
-* Date: 9 June 2025 (Monday).
+* Date: 11 June 2025 (Wednesday).
 * Time: 14:30 - 16:00.
 * Place: 1101 in E3.
 * Closed-book exam. The scope of the exam is all the topics covered in the classes.
