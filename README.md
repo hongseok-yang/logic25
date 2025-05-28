@@ -7,6 +7,10 @@ CS402 is a course on logic with emphasis on its use for computer science. Its go
 
 ## 1. Important Announcements
 
+#### [May 28] The deadline of [Homework3](https://github.com/hongseok-yang/logic25/blob/master/Homework/sheet3-questions.pdf) is extended for one day. 
+
+The new deadline of the third homework assignment is 6:00pm on 31 May 2025 (Saturday). This is due to the overlap with the early-voting days.
+
 #### [May 18] [Homework3](https://github.com/hongseok-yang/logic25/blob/master/Homework/sheet3-questions.pdf) is out.
 
 The homework assignment 3 is out. This is the last homework assignment. Submit your solutions in KLMS by 6:00pm on 30 May 2025 (Friday).
