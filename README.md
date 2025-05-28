@@ -130,7 +130,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 * [Homework1](https://github.com/hongseok-yang/logic25/blob/master/Homework/sheet1-questions.pdf) - Deadline: 6:00pm on 4 April 2025 (Friday).
 * [Homework2](https://github.com/hongseok-yang/logic25/blob/master/Homework/sheet2-questions.pdf) - Deadline: 6:00pm on 9 May 2025 (Friday).
-* [Homework3](https://github.com/hongseok-yang/logic25/blob/master/Homework/sheet3-questions.pdf) - Deadline: 6:00pm on 30 May 2025 (Friday).
+* [Homework3](https://github.com/hongseok-yang/logic25/blob/master/Homework/sheet3-questions.pdf) - Deadline: 6:00pm on 30 May 2025 (Friday). The deadline is extended until 6:00pm on 31 May 2025 (Friday) due to the overlap with the early-voting days of the presidential election.
 
 ## 6. Tentative Plan
 
